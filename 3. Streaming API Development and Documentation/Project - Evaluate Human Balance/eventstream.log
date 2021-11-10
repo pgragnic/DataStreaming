@@ -1,0 +1,61 @@
+-------------------------------------------
+Batch: 0
+-------------------------------------------
++--------------------+-----+
+|            customer|score|
++--------------------+-----+
+|Craig.Sanchez@tes...| 15.0|
+|Danny.Aristotle@t...|  6.5|
+| Jason.Huey@test.com|-12.5|
+|Spencer.Khatib@te...| -5.0|
+|  Ben.Jones@test.com| -8.0|
+|David.Abram@test.com| -3.5|
+|  Lyn.Doshi@test.com| -1.5|
+|Jason.Fibonnaci@t...| -5.0|
+|Jerry.Harris@test...| -4.0|
+|Ben.Fibonnaci@tes...| -2.5|
+|David.Fibonnaci@t...| -2.0|
+|Trevor.Anderson@t...| -3.0|
+|David.Phillips@te...| -2.0|
+|Dan.Spencer@test.com| -1.5|
+| Dan.Harris@test.com| -3.5|
+|Neeraj.Mitra@test...| -5.5|
+|Edward.Jefferson@...| -3.5|
+|Gail.Jackson@test...|-18.5|
+|Jane.Anderson@tes...|-23.5|
+|Jerry.Clayton@tes...|-16.5|
++--------------------+-----+
+only showing top 20 rows
+
+-------------------------------------------
+Batch: 1
+-------------------------------------------
++--------------------+-----+
+|            customer|score|
++--------------------+-----+
+|Jane.Anderson@tes...|  1.0|
+|Jerry.Clayton@tes...| -5.0|
+| Sean.Doshi@test.com|-12.0|
+|Chris.Smith@test.com|-35.5|
+|Suresh.Clark@test...|-32.5|
+|Frank.Olson@test.com|-22.5|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 2
+-------------------------------------------
++--------------------+-----+
+|            customer|score|
++--------------------+-----+
+|Ashley.Spencer@te...|  7.5|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 3
+-------------------------------------------
++--------------------+-----+
+|            customer|score|
++--------------------+-----+
+|Santosh.Davis@tes...|  1.5|
++--------------------+-----+
+
